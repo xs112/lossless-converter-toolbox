@@ -1,0 +1,7 @@
+customtkinter>=6.0
+Pillow>=11.0
+pillow-heif>=1.7
+numpy
+tkinterdnd2>=0.4
+# 音频/视频转换及 AVIF 无损输出需要系统安装 ffmpeg（含 ffprobe）并加入 PATH
+# 本机已安装 ffmpeg 8.1.2 (full build)
