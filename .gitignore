@@ -19,3 +19,6 @@ ui_shot.png
 # IDE
 .idea/
 .vscode/
+
+# 发布产物
+*.zip
